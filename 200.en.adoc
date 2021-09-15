@@ -1,14 +1,35 @@
-[[short-id]]
-== Section/chapter title 
+[[methods]]
+== Methods 
 
-“Hast got it, Dummie?” said she, quickly, as she closed the door on the guest.
+To ensure efficient and effective provision of biodiversity data and services , GBIF commissioned an analysis of existing biodiversity indicators that depend on primary biodiversity data. This analysis looks at how GBIF-mediated data feeds into the development of indicators and how it informs the work and products of the IPBES (https://www.ipbes.net/), the CBD, and other global, national and regional science-policy processes.
 
-“Noa, noa! not exactly — but I thinks as ‘ow ⸺”
+A data source is defined broadly in this study. Most data sources are products generated for use by researchers, policymakers and others across multiple communities. They are often used as baseline or primary data inputs for analyses. Once these analyses are performed the result is a data product that contains modified data from the initial data sources, as well as new data derived from the analyses. Some EBVs and indicators use only the primary biodiversity data from various data sources, while others may use a combination of primary data and data products in their creation. Thus, the term “data sources” refers to both primary data and data products used to create indicators. For the purposes of this study, data aggregated through GBIF is considered to be primary data, and not as a data product.
 
-“Pish, you fool!” cried the woman, interrupting him, peevishly: “Vy, it is no use desaving of me. You knows you has only stepped from my boosing ken to another, and you has not been arter the book at all. So there’s the poor cretur a-raving and a-dying, and you ⸺”
+This study began with an exploration of the existing indicators identified as most likely to contribute to the monitoring framework of the post-2020 global biodiversity framework. A first step was to modify the list of BIP (https://www.bipindicators.net/) and GEO-BON (https://geobon.org/ebvs/indicators/) indicators published in the Information Document prepared for SBSTTA24 by UNEP-WCMC and BIP (UNEP-WCMC & BIP 2020). This list contained indicators predicted to contribute to the post-2020 framework directly. Other indicators identified as potential contributors were added to generate a comprehensive list. We selected 11 indicators from the extensive list for in-depth assessments of their use of primary biodiversity data. These indicators were selected for analysis because they declared the use of GBIF-mediated data or partnerships with GBIF in their online documentation, such as the indicator descriptions on the BIP web site. Two additional indicators not on the SBSTTA24 list were found to have direct connections to GBIF and were added to the analysis (Growth of Species Occurrence Records Available through GBIF and the Species Status Information Index). Other indicators, such as the IUCN’s Red and Green Lists may also use GBIF data, but no evidence of use was available publicly, so those indicators were not included in this study. The list of indicators assessed can be found in Table 1.
 
-“Let I speak!” interrupted Dummie in his turn. “I tells you I vent first to Mother Bussblone’s, who, I knows, chops the whiners morning and evening to the young ladies, and I axes there for a Bible, and she says, says she, ‘I ’as only a “Companion to the __H__alter!” but you’ll get a Bible, I think, at Master Talkins, — the cobbler — as preaches.’ So I goes to Master Talkins, and he says, says he, ‘I ’as no call for the Bible, ’cause vy, I ’as a call vithout; but mayhap you’ll be a-getting it at the butcher’s hover the vay — ’cause vy? — the butcher’ll be damned!’ So I goes hover the vay, and the butcher says, says he, ‘I ’as not a Bible, but I ’as a book of plays bound for all the vorld just like ’un, and mayhap the poor cretur mayn’t see the difference.’ So I takes the plays, Mrs. Margery, and here they be surely! — And how’s poor Judy?”
+The Information Document prepared for SBSTTA24 (UNEP-WCMC & BIP 2020) provided a limited quantity of information about each of the selected indicators. Documentation describing each indicator provided on the BIP web site was also limited. Therefore, we undertook an investigation to better understand 
 
-“Fearsome! she’ll not be over the night; I’m a-thinking.”
+. the specific characteristics of the data sources used in each indicator
+. the types of data that contributed to the indicators (in addition to biodiversity data)
+. the actual datasets used to build each indicator
 
-“Vell, I’ll track up the dancers!”
+For each source we recorded a broad range of characteristics, including: 
+
+* the geographic, temporal and thematic spread of the source
+* its funding sources
+* the origin of the data aggregated into the source (e.g. repositories gathering data from natural history collections; citizen science data; data produced from research activities directly)
+* the data provenance (e.g. indicating whether it is known, declared or not)
+* the kind of access that is granted to the source (e.g. open, free, licensed, variable)
+* the source activity/currency (e.g. if it is an ongoing activity or a one-time-only release) 
+
+Where available, we recorded links to the primary biodiversity datasets. 
+
+To identify the types of data that each indicator uses and the dependencies between the agencies using those data, we categorized the indicators by use of: 
+
+. species occurrence data (records/data that describe the presence or absence of species)
+. species information (descriptions of location or traits of species, including range maps and distributions)
+. abiotic information (earth science data, non-biological data)
+. genetic (data about genetic resources)
+. other (data that don't fit into the above categories neatly).
+
+To gather this information, we consulted the source organizations or projects through their websites and data portals. Direct communications clarified methodological approaches and integration with other data sources. We paid special attention to data accessibility and the reproducibility of the results, recording any issues that arose in defining the provenance of the data.
