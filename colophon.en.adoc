@@ -7,7 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx.
+Bloom DA, Zermoglio P & Guralnick RG (2021) . GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx.
 
 === Authors
 
