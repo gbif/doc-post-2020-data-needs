@@ -3,8 +3,6 @@
 
 //The bibliography list is a style of AsciiDoc bulleted list.
 
-- [[carrillo]] Carrillo Trueba C (1995) El Pedregal de San Ángel. Mexico City: Universidad Nacional Autonoma de Mexico.
-
 - [[alliance]] alliance for biodiversity knowledge (2021) https://www.allianceforbio.org 
 - [[arino]] Ariño AH, Chavan V & Faith DP (2013) Assessment of user needs of primary biodiversity data: Analysis, concerns, and challenges. Biodiversity Informatics 8(2): 59-93. https://doi.org/10.17161/bi.v8i2.4094
 - [[balldamerow]] Ball-Damerow JE, Brenskelle L, Barve N et al. (2019) Research applications of primary biodiversity databases in the digital age. PLoS ONE 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
@@ -24,57 +22,56 @@
 - [[essl]] Essl F, Latombe G, Lenzner B, et al. (2020) The Convention on Biological Diversity (CBD)’s post-2020 target on invasive alien species – what should it include and how should it be monitored? in: Wilson JR, Bacher S, Daehler CC et al. NeoBiota 62: 99-121. https://doi.org/10.3897/neobiota.62.53972
 - [[feeley]] Feeley K (2015) Are We Filling the Data Void? An Assessment of the Amount and Extent of Plant Collection Records and Census Data Available for Tropical South America. PLOS ONE 10: 1-17. https://doi.org/10.1371/journal.pone.0125629
 - [[figueira]] Figueira R, Beja P, Villaverde C et al. (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03
-GBIF Secretariat. (2021). GBIF Science Review 2020. https://doi.org/10.35035/bezp-jj23 
-Geldmann J, Deguignet M, Balmford A, et al. (2021). Essential indicators for measuring site‐based conservation effectiveness in the post‐2020 global biodiversity framework. Conservation Letters e12792. https://doi.org/10.1111/conl.12792
-Graham CH, Ferrier S, Huettman F, et al. (2004). New developments in museum-based informatics and applications in biodiversity analysis. Trends in Ecology & Evolution 19: 497-503. https://doi.org/10.1016/j.tree.2004.07.006
-Group on Earth Observations Biodiversity Observation Network (GEO BON) (2021). https://geobon.org/
-Guralnick RP, Hill AW, Lane M. (2007). Towards a collaborative, global infrastructure for biodiversity assessment. Ecology Letters 10(8): 663-672. https://doi.org/10.1111/j.1461-0248.2007.01063.x
-Guralnick R, Walls R, Jetz W. (2017). Humboldt Core –toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography 40: 001-012. https://doi.org/10.1111/ecog.02942
-Hardisty AR, Michener WK, Agosti D, et al. (2019). The Bari Manifesto: An interoperability framework for essential biodiversity variables. Ecological Informatics 49: 22-31. https://doi.org/10.1016/j.ecoinf.2018.11.003
-Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D. (2021). Data integration enables global biodiversity synthesis. PNAS 118 (6). https://doi.org/10.1073/pnas.2018093118
-Hill R, Adem C, Alangui WV, et al. (2020). Working with Indigenous, local and scientific knowledge in assessments of nature and nature’s linkages with people. Current Opinion in Environmental Sustainability 43: 8-20. https://doi.org/10.1016/j.cosust.2019.12.006
-Hoban S, Bruford M, D'Urban Jackson J, et al. (2020). Genetic diversity targets and indicators in the CBD post-2020 global biodiversity framework must be improved. Biological Conservation 248, 1086542. https://doi.org/10.1016/j.biocon.2020.108654
-Hobern D, Baptiste B, Copas K et al. (2019). Connecting data and expertise: a new alliance for biodiversity knowledge. Biodiversity Data Journal 7: e33679. https://doi.org/10.3897/BDJ.7.e33679
-Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) (2019). Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany, Chapter 3: Assessing progress towards meeting major international objectives related to nature and nature’s contributions to people. Available at: https://ipbes.net/global-assessment
-Johnson CN, Balmford A, Brook BW, et al. (2017). Biodiversity losses and conservation responses in the Anthropocene. Science 356: 270-275. https://doi.org/10.1126/science.aam9317
-Kissling WD, Ahumada JA, Bowser A, et al. (2018a). Building essential biodiversity variables (EBVs) of species distribution and abundance at a global scale. Biological Reviews 93: 600-625. https://doi.org/10.1111/brv.12359
-Kissling WD, Walls R, Bowser A, et al. (2018b). Towards global data products of Essential Biodiversity Variables on species traits. Nature Ecology & Evolution 2: 1531-1540. https://doi.org/10.1038/s41559-018-0667-3
-Kühl HS, Bowler D, Bösch L, et al. (2020). Effective Biodiversity Monitoring Needs a Culture of Integration. One Earth 3(4): 462-474. https://doi.org/10.1016/j.oneear.2020.09.010
-Kühn E, Feldmann R, Harpke A, et al. (2008). Getting the public involved in butterfly conservation: lessons learned from a new monitoring scheme in Germany. Israel Journal of Ecology and Evolution 54: 89-103. https://doi.org/10.1560/ijee.54.1.89
-Lee W, McGlone M, Wright E. (2005). Biodiversity Inventory and Monitoring: A Review of National and International Systems and a Proposed framework for Future Biodiversity Monitoring by the Department of Conservation. Landcare Research contract report LC0405/122.
-Lindenmayer DB, Likens GE, Franklin JF. (2017). Earth Observation Networks (EONs): Finding the Right Balance. Trends in Ecology & Evolution 33(1): 1-3. https://doi.org/10.1016/j.tree.2017.10.008
-McNutt M, Lehnert K, Brooks H, et al. (2016). Liberating field science samples and data. Science 351(6277): 1024-1026. https://doi.org/10.1126/science.aad7048
-Mihoub JB, Henle K, Titeux N, et al. (2017). Setting temporal baselines for biodiversity: the limits of available monitoring data for capturing the full impact of anthropogenic pressures. Scientific Reports 7: 41591. https://doi.org/10.1038/srep41591
-Moul K, Martin E, Ivory S, et al. (2018). Mapping of current and potential use of biodiversity indicators across intergovernmental processes. UN Environment – WCMC. Nov 2018. https://www.unep-wcmc.org/resources-and-data/global-biodiversity-indicator-mapping
-Moussy C, Burfield I, Stephenson PJ, et al. (2021). A quantitative review of species population monitoring. Conservation Biology. Accepted Author Manuscript.. https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13721
-Navarro LM, Fernández N, Guerra C, et al. (2017). Monitoring biodiversity change through effective global coordination. Current Opinion in Environmental Sustainability 29:158–169. https://doi.org/10.1016/j.cosust.2018.02.005
-Nicholson E, Collen B, Barausse A, et al. (2012). Making Robust Policy Decisions Using Global Biodiversity Indicators. PLOS ONE 7(7): e41128. https://doi.org/10.1371/journal.pone.0041128
-Pereira HM, Cooper HD. (2006). Towards the global monitoring of biodiversity change. Trends in Ecology and Evolution 21(3): 123-129.https://doi.org/10.1016/j.tree.2005.10.015
-Pereira HM, Belnap J, Brummitt N. et al. (2010). Global biodiversity monitoring. Frontiers in Ecology and the Environment, 8: 459-460. https://doi.org/10.1890/10.WB.23
-Peterson AT, Asase A, Canhos D, et al. (2018). Data Leakage and Loss in BiodiversityInformatics. Biodiversity Data Journal 6: e26826. https://doi.org/10.3897/BDJ.6.e26826
-Pocock MJ, Chandler M, Bonney R, et al. (2018). A vision for global biodiversity monitoring with citizen science. Advances in Ecological Research 59: 169-223. https://doi.org/10.1016/bs.aecr.2018.06.003
-Proença V, Martin LM, Pereira HM, et al. (2017). Global biodiversity monitoring: From data sources to Essential Biodiversity Variables. Biological Conservation 213(B): 256-263. https://doi.org/10.1016/j.biocon.2016.07.014
-Schmeller DS, Henry PY, Julliard R, et al. (2009). Advantages of volunteer-based biodiversity monitoring in Europe. Conservation Biology 23: 307-316. https://doi.org/10.1111/j.1523-1739.2008.01125.x
-Schmeller DS, Mihoub J-B, Bowser A, et al. (2017). An operational definition of essential biodiversity variables. Biodiversity Conservation 26: 2967-2972. https://doi.org/10.1007/s10531-017-1386-9
-Scholes RJ, Mace GM, Turner W, et al. (2008). Toward a Global Biodiversity Observing System. Science 321: 1044-1045. https://doi.org/10.1126/science.1162055
-Secretariat of the Convention on Biological Diversity. (2021). Report of the virtual sessions of the fifth science-policy forum for biodiversity and the eighth international conference on sustainability science. https://www.cbd.int/doc/c/8cd2/6eab/663d8a4cc2d198b104225345/sbstta-24-inf-28-en.pdf
-Secretariat of the Convention on Biological Diversity. (2020a). Zero Draft of the Post‐2020 Global Biodiversity framework. https://www.cbd.int/doc/c/efb0/1f84/a892b98d2982a829962b6371/wg2020-02-03-en.pdf
-Secretariat of the Convention on Biological Diversity. (2020b). Update of the Zero Draft of the Post‐2020 Global Biodiversity framework. https://www.cbd.int/doc/c/3064/749a/0f65ac7f9def86707f4eaefa/post2020-prep-02-01-en.pdf
-Secretariat of the Convention on Biological Diversity. (2020c). Global Biodiversity Outlook 5. Montreal. https://www.cbd.int/gbo5
-Secretariat of the Convention on Biological Diversity. (2020d). Monitoring framework for the post-2020 global biodiversity framework. https://www.cbd.int/sbstta/sbstta-24/post2020-monitoring-en.pdf 
-Secretariat of the Convention on Biological Diversity. (2020e). Review of Progress in the Implementation of the Convention and the Strategic Plan for Biodiversity 2011-2020, document CBD/SBI/3/2 prepared by SCBD for the 3rd meeting of the Subsidiary Body on Implementation (SBI3), available at: https://www.cbd.int/doc/c/73bc/335c/480a6a50d95d04478f4b3041/sbi-03-02-en.pdf
-Secretariat of the Convention on Biological Diversity. (2010). Strategic Plan for Biodiversity 2011-2020, including Aichi Biodiversity Targets. https://www.cbd.int/sp/
-Secretariat of the Convention on Biological Diversity. (2006). Global Biodiversity Outlook 2. Montreal. https://www.cbd.int/gbo2/
-Sousa-Baena MS, Garcia LC, Peterson AT. (2014). Knowledge behind conservation status decisions: data basis for “Data Deficient” Brazilian plant species. Biological Conservation 173: 80-89. http://dx.doi.org/10.1016/j.biocon.2013.06.034
-Stevenson SL, Watermeyer K, Caggiano G, et al. (2021). Matching biodiversity indicators to policy needs. Conservation Biology. https://doi.org/10.1111/cobi.13575
-Tengö M, Hill R, Malmer P, et al. (2017). Weaving knowledge systems in IPBES, CBD and beyond—lessons learned for sustainability. Current Opinion in Environmental Sustainability 26-27: 17-25. https://doi.org/10.1016/j.cosust.2016.12.005
-The Equator Principles Association (2020). The Equator Principles. July 2020. Available at: https://equator-principles.com/wp-content/uploads/2021/02/The-Equator-Principles-July-2020.pdf
-Turner W. (2014). Sensing biodiversity. Science 346: 301-302. https://doi.org/10.1126/science.1256014
-UNEP-WCMC & BIP. (2020). Indicators for the post-2020 global biodiversity framework. https://www.cbd.int/sbstta/sbstta-24/post2020-indicators-en.pdf
-UNESCO (2021). Draft text of the UNESCO Recommendation on Open Science. Available at: https://en.unesco.org/science-sustainable-future/open-science
-Vannan S, Downs RR, Meier W, et al. (2020). Data sets are foundational to research. Why don’t we cite them? Eos. 101. https://doi.org/10.1029/2020EO151665 
-Williams BA, Watson JE, Butchart SH, et al. 2020. A robust goal is needed for species in the Post‐2020 Global Biodiversity framework. Conservation Letters. 2020;e12778. https://doi.org/10.1111/conl.12778 
-Wilkinson MD, Dumontier M, Aalbersberg IJ, et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data 3: 160018. https://doi.org/10.1038/sdata.2016.18
-
+- [[]] GBIF Secretariat. (2021). GBIF Science Review 2020. https://doi.org/10.35035/bezp-jj23 
+- [[]] Geldmann J, Deguignet M, Balmford A, et al. (2021). Essential indicators for measuring site‐based conservation effectiveness in the post‐2020 global biodiversity framework. Conservation Letters e12792. https://doi.org/10.1111/conl.12792
+- [[]] Graham CH, Ferrier S, Huettman F, et al. (2004). New developments in museum-based informatics and applications in biodiversity analysis. Trends in Ecology & Evolution 19: 497-503. https://doi.org/10.1016/j.tree.2004.07.006
+- [[]] Group on Earth Observations Biodiversity Observation Network (GEO BON) (2021). https://geobon.org/
+- [[]] Guralnick RP, Hill AW, Lane M. (2007). Towards a collaborative, global infrastructure for biodiversity assessment. Ecology Letters 10(8): 663-672. https://doi.org/10.1111/j.1461-0248.2007.01063.x
+- [[]] Guralnick R, Walls R, Jetz W. (2017). Humboldt Core –toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography 40: 001-012. https://doi.org/10.1111/ecog.02942
+- [[]] Hardisty AR, Michener WK, Agosti D, et al. (2019). The Bari Manifesto: An interoperability framework for essential biodiversity variables. Ecological Informatics 49: 22-31. https://doi.org/10.1016/j.ecoinf.2018.11.003
+- [[]] Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D. (2021). Data integration enables global biodiversity synthesis. PNAS 118 (6). https://doi.org/10.1073/pnas.2018093118
+- [[]] Hill R, Adem C, Alangui WV, et al. (2020). Working with Indigenous, local and scientific knowledge in assessments of nature and nature’s linkages with people. Current Opinion in Environmental Sustainability 43: 8-20. https://doi.org/10.1016/j.cosust.2019.12.006
+- [[]] Hoban S, Bruford M, D'Urban Jackson J, et al. (2020). Genetic diversity targets and indicators in the CBD post-2020 global biodiversity framework must be improved. Biological Conservation 248, 1086542. https://doi.org/10.1016/j.biocon.2020.108654
+- [[]] Hobern D, Baptiste B, Copas K et al. (2019). Connecting data and expertise: a new alliance for biodiversity knowledge. Biodiversity Data Journal 7: e33679. https://doi.org/10.3897/BDJ.7.e33679
+- [[]] Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) (2019). Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany, Chapter 3: Assessing progress towards meeting major international objectives related to nature and nature’s contributions to people. Available at: https://ipbes.net/global-assessment
+- [[]] Johnson CN, Balmford A, Brook BW, et al. (2017). Biodiversity losses and conservation responses in the Anthropocene. Science 356: 270-275. https://doi.org/10.1126/science.aam9317
+- [[]] Kissling WD, Ahumada JA, Bowser A, et al. (2018a). Building essential biodiversity variables (EBVs) of species distribution and abundance at a global scale. Biological Reviews 93: 600-625. https://doi.org/10.1111/brv.12359
+- [[]] Kissling WD, Walls R, Bowser A, et al. (2018b). Towards global data products of Essential Biodiversity Variables on species traits. Nature Ecology & Evolution 2: 1531-1540. https://doi.org/10.1038/s41559-018-0667-3
+- [[]] Kühl HS, Bowler D, Bösch L, et al. (2020). Effective Biodiversity Monitoring Needs a Culture of Integration. One Earth 3(4): 462-474. https://doi.org/10.1016/j.oneear.2020.09.010
+- [[]] Kühn E, Feldmann R, Harpke A, et al. (2008). Getting the public involved in butterfly conservation: lessons learned from a new monitoring scheme in Germany. Israel Journal of Ecology and Evolution 54: 89-103. https://doi.org/10.1560/ijee.54.1.89
+- [[]] Lee W, McGlone M, Wright E. (2005). Biodiversity Inventory and Monitoring: A Review of National and International Systems and a Proposed framework for Future Biodiversity Monitoring by the Department of Conservation. Landcare Research contract report LC0405/122.
+- [[]] Lindenmayer DB, Likens GE, Franklin JF. (2017). Earth Observation Networks (EONs): Finding the Right Balance. Trends in Ecology & Evolution 33(1): 1-3. https://doi.org/10.1016/j.tree.2017.10.008
+- [[]] McNutt M, Lehnert K, Brooks H, et al. (2016). Liberating field science samples and data. Science 351(6277): 1024-1026. https://doi.org/10.1126/science.aad7048
+- [[]] Mihoub JB, Henle K, Titeux N, et al. (2017). Setting temporal baselines for biodiversity: the limits of available monitoring data for capturing the full impact of anthropogenic pressures. Scientific Reports 7: 41591. https://doi.org/10.1038/srep41591
+- [[]] Moul K, Martin E, Ivory S, et al. (2018). Mapping of current and potential use of biodiversity indicators across intergovernmental processes. UN Environment – WCMC. Nov 2018. https://www.unep-wcmc.org/resources-and-data/global-biodiversity-indicator-mapping
+- [[]] Moussy C, Burfield I, Stephenson PJ, et al. (2021). A quantitative review of species population monitoring. Conservation Biology. Accepted Author Manuscript.. https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13721
+- [[]] Navarro LM, Fernández N, Guerra C, et al. (2017). Monitoring biodiversity change through effective global coordination. Current Opinion in Environmental Sustainability 29:158–169. https://doi.org/10.1016/j.cosust.2018.02.005
+- [[]] Nicholson E, Collen B, Barausse A, et al. (2012). Making Robust Policy Decisions Using Global Biodiversity Indicators. PLOS ONE 7(7): e41128. https://doi.org/10.1371/journal.pone.0041128
+- [[]] Pereira HM, Cooper HD. (2006). Towards the global monitoring of biodiversity change. Trends in Ecology and Evolution 21(3): 123-129.https://doi.org/10.1016/j.tree.2005.10.015
+- [[]] Pereira HM, Belnap J, Brummitt N. et al. (2010). Global biodiversity monitoring. Frontiers in Ecology and the Environment, 8: 459-460. https://doi.org/10.1890/10.WB.23
+- [[]] Peterson AT, Asase A, Canhos D, et al. (2018). Data Leakage and Loss in BiodiversityInformatics. Biodiversity Data Journal 6: e26826. https://doi.org/10.3897/BDJ.6.e26826
+- [[]] Pocock MJ, Chandler M, Bonney R, et al. (2018). A vision for global biodiversity monitoring with citizen science. Advances in Ecological Research 59: 169-223. https://doi.org/10.1016/bs.aecr.2018.06.003
+- [[]] Proença V, Martin LM, Pereira HM, et al. (2017). Global biodiversity monitoring: From data sources to Essential Biodiversity Variables. Biological Conservation 213(B): 256-263. https://doi.org/10.1016/j.biocon.2016.07.014
+- [[]] Schmeller DS, Henry PY, Julliard R, et al. (2009). Advantages of volunteer-based biodiversity monitoring in Europe. Conservation Biology 23: 307-316. https://doi.org/10.1111/j.1523-1739.2008.01125.x
+- [[]] Schmeller DS, Mihoub J-B, Bowser A, et al. (2017). An operational definition of essential biodiversity variables. Biodiversity Conservation 26: 2967-2972. https://doi.org/10.1007/s10531-017-1386-9
+- [[]] Scholes RJ, Mace GM, Turner W, et al. (2008). Toward a Global Biodiversity Observing System. Science 321: 1044-1045. https://doi.org/10.1126/science.1162055
+- [[]] Secretariat of the Convention on Biological Diversity. (2021). Report of the virtual sessions of the fifth science-policy forum for biodiversity and the eighth international conference on sustainability science. https://www.cbd.int/doc/c/8cd2/6eab/663d8a4cc2d198b104225345/sbstta-24-inf-28-en.pdf
+- [[]] Secretariat of the Convention on Biological Diversity. (2020a). Zero Draft of the Post‐2020 Global Biodiversity framework. https://www.cbd.int/doc/c/efb0/1f84/a892b98d2982a829962b6371/wg2020-02-03-en.pdf
+- [[]] Secretariat of the Convention on Biological Diversity. (2020b). Update of the Zero Draft of the Post‐2020 Global Biodiversity framework. https://www.cbd.int/doc/c/3064/749a/0f65ac7f9def86707f4eaefa/post2020-prep-02-01-en.pdf
+- [[]] Secretariat of the Convention on Biological Diversity. (2020c). Global Biodiversity Outlook 5. Montreal. https://www.cbd.int/gbo5
+- [[]] Secretariat of the Convention on Biological Diversity. (2020d). Monitoring framework for the post-2020 global biodiversity framework. https://www.cbd.int/sbstta/sbstta-24/post2020-monitoring-en.pdf 
+- [[]] Secretariat of the Convention on Biological Diversity. (2020e). Review of Progress in the Implementation of the Convention and the Strategic Plan for Biodiversity 2011-2020, document CBD/SBI/3/2 prepared by SCBD for the 3rd meeting of the Subsidiary Body on Implementation (SBI3), available at: https://www.cbd.int/doc/c/73bc/335c/480a6a50d95d04478f4b3041/sbi-03-02-en.pdf
+- [[]] Secretariat of the Convention on Biological Diversity. (2010). Strategic Plan for Biodiversity 2011-2020, including Aichi Biodiversity Targets. https://www.cbd.int/sp/
+- [[]] Secretariat of the Convention on Biological Diversity. (2006). Global Biodiversity Outlook 2. Montreal. https://www.cbd.int/gbo2/
+- [[]] Sousa-Baena MS, Garcia LC, Peterson AT. (2014). Knowledge behind conservation status decisions: data basis for “Data Deficient” Brazilian plant species. Biological Conservation 173: 80-89. http://dx.doi.org/10.1016/j.biocon.2013.06.034
+- [[]] Stevenson SL, Watermeyer K, Caggiano G, et al. (2021). Matching biodiversity indicators to policy needs. Conservation Biology. https://doi.org/10.1111/cobi.13575
+- [[tengo]] Tengö M, Hill R, Malmer P et al. (2017) Weaving knowledge systems in IPBES, CBD and beyond—lessons learned for sustainability. Current Opinion in Environmental Sustainability 26-27: 17-25. https://doi.org/10.1016/j.cosust.2016.12.005
+- [[epa]] The Equator Principles Association (2020) The Equator Principles. July 2020. Available at: https://equator-principles.com/wp-content/uploads/2021/02/The-Equator-Principles-July-2020.pdf
+- [[turner]] Turner W (2014) Sensing biodiversity. Science 346: 301-302. https://doi.org/10.1126/science.1256014
+- [[unepwcmc]] UNEP-WCMC & BIP (2020) Indicators for the post-2020 global biodiversity framework. https://www.cbd.int/sbstta/sbstta-24/post2020-indicators-en.pdf
+- [[unesco]] UNESCO (2021) Draft text of the UNESCO Recommendation on Open Science. Available at: https://en.unesco.org/science-sustainable-future/open-science
+- [[vannan]] Vannan S, Downs RR, Meier W et al. (2020) Data sets are foundational to research. Why don’t we cite them? Eos 101. https://doi.org/10.1029/2020EO151665 
+- [[williams]] Williams BA, Watson JE, Butchart SH et al. (2020) A robust goal is needed for species in the Post‐2020 Global Biodiversity framework. Conservation Letters. 2020;e12778. https://doi.org/10.1111/conl.12778 
+- [[wilkinson]] Wilkinson MD, Dumontier M, Aalbersberg IJ et al. (2016) The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data 3: 160018. https://doi.org/10.1038/sdata.2016.18
 
 <<<
