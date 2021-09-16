@@ -16,8 +16,6 @@ endif::backend-html5[]
 
 include::colophon.en.adoc[]
 
-include::preface.en.adoc[]
-
 :sectnums:
 
 include::100.en.adoc[]
@@ -32,10 +30,6 @@ include::500.en.adoc[]
 
 :sectnums!:
 
-include::afterword.en.adoc[]
-
 include::appa.en.adoc[]
-
-include::glossary.en.adoc[]
 
 include::bibliography.en.adoc[]
