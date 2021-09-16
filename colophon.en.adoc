@@ -1,6 +1,6 @@
 // add cover image to img directory and update filename below
 ifdef::backend-html5[]
-image::img/web/photo.jpg[]
+image::img/web/Ensatina-eschscholtzii-iNat-easmeds-web.jpg[]
 endif::backend-html5[]
 
 == Colophon
@@ -19,7 +19,7 @@ James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this v
 
 === Licence
 
-The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _Analysis of biodiversity data needs in the post-2020 framework_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === Persistent URI
 
@@ -32,4 +32,4 @@ First edition, September 2021
 === Cover image
 
 // Caption. Credit, source, licence.
-Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+Ensatina (_Ensatina eschscholtzii_), Sonoma County, California, United States. Photo 2021 Elliott Smeds via https://www.gbif.org/occurrence/3031797751[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
