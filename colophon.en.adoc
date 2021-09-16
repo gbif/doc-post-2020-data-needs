@@ -7,7 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Bloom DA, Zermoglio P & Guralnick RG (2021) . GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx.
+Bloom DA, Zermoglio P & Guralnick R (2021) Analysis of biodiversity data needs in the post-2020 framework. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-2ph8-0403
 
 === Authors
 
@@ -23,16 +23,11 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-xxxx-xxxx
+https://doi.org/10.35035/doc-2ph8-0403
 
 === Document control
 
-Third edition, April 2020
-
-// include reference to provenance if possible/relevant
-https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
-
-Originally based on an earlier publication, _Towards establishing the special guide to something_.
+First edition, September 2021
 
 === Cover image
 
