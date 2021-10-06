@@ -1,5 +1,5 @@
 = Analysis of biodiversity data needs in the post-2020 framework
-Author One <communication@gbif.org>; Author Two
+Bloom DA, Zermoglio P & Guralnick R
 :toc: left
 :toclevels: 3
 :numbered:
