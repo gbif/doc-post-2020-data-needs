@@ -17,8 +17,9 @@
 - [[chandler]] Chandler M, See L, Copas K et al. (2017) Contribution of citizen science towards international biodiversity monitoring. Biological Conservation 213(B): 280-294. https://doi.org/10.1016/j.biocon.2016.09.004 
 - [[collen]] Collen B & Nicholson E (2014). Taking the measure of change. Science 346:166-167. https://doi.org/10.1126/science.1255772
 - [[constable]] Constable H, Guralnick R, Wieczorek J et al. (2010) VertNet: A New Model for Biodiversity Data Sharing. PLoS Biology 8(2): e1000309. https://doi.org/10.1371/journal.pbio.1000309
-- [[force11]] Data Citation Synthesis Group (2014) Joint Declaration of Data Citation Principles. Martone M. (ed.) San Diego, Calif., United States: FORCE11 https://doi.org/10.25490/a97f-egyk
+- [[force11]] Data Citation Synthesis Group (2014) Joint Declaration of Data Citation Principles. Martone M, ed. San Diego, Calif., United States: FORCE11. https://doi.org/10.25490/a97f-egyk
 - [[diaz]] Díaz S, Zafra-Calvo N, Purvis A et al. (2020) Set ambitious goals for biodiversity and sustainability. Science 370(6515): 411-413. https://doi.org/10.1126/science.abe1530
+- [[epa]] Equator Principles Association (2020) The Equator Principles. July 2020. Available at: https://equator-principles.com/wp-content/uploads/2021/02/The-Equator-Principles-July-2020.pdf
 - [[essl]] Essl F, Latombe G, Lenzner B, et al. (2020) The Convention on Biological Diversity (CBD)’s post-2020 target on invasive alien species – what should it include and how should it be monitored? in: Wilson JR, Bacher S, Daehler CC et al. NeoBiota 62: 99-121. https://doi.org/10.3897/neobiota.62.53972
 - [[feeley]] Feeley K (2015) Are We Filling the Data Void? An Assessment of the Amount and Extent of Plant Collection Records and Census Data Available for Tropical South America. PLoS ONE 10: 1-17. https://doi.org/10.1371/journal.pone.0125629
 - [[figueira]] Figueira R, Beja P, Villaverde C et al. (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03
@@ -66,7 +67,6 @@
 - [[sousabaena]] Sousa-Baena MS, Garcia LC & Peterson AT (2014) Knowledge behind conservation status decisions: data basis for “Data Deficient” Brazilian plant species. Biological Conservation 173: 80-89. https://doi.org/10.1016/j.biocon.2013.06.034
 - [[stevenson]] Stevenson SL, Watermeyer K, Caggiano G et al. (2021) Matching biodiversity indicators to policy needs. Conservation Biology 35(2): 522-532. https://doi.org/10.1111/cobi.13575
 - [[tengo]] Tengö M, Hill R, Malmer P et al. (2017) Weaving knowledge systems in IPBES, CBD and beyond—lessons learned for sustainability. Current Opinion in Environmental Sustainability 26-27: 17-25. https://doi.org/10.1016/j.cosust.2016.12.005
-- [[epa]] The Equator Principles Association (2020) The Equator Principles. July 2020. Available at: https://equator-principles.com/wp-content/uploads/2021/02/The-Equator-Principles-July-2020.pdf
 - [[turner]] Turner W (2014) Sensing biodiversity. Science 346: 301-302. https://doi.org/10.1126/science.1256014
 - [[unepwcmc]] UNEP-WCMC & BIP (2020) Indicators for the post-2020 global biodiversity framework. https://www.cbd.int/sbstta/sbstta-24/post2020-indicators-en.pdf
 - [[unesco]] UNESCO (2021) Draft text of the UNESCO Recommendation on Open Science. Available at: https://en.unesco.org/science-sustainable-future/open-science
