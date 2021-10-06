@@ -6,8 +6,8 @@
 - [[alliance]] alliance for biodiversity knowledge (2021) https://www.allianceforbio.org 
 - [[arino]] Ariño AH, Chavan V & Faith DP (2013) Assessment of user needs of primary biodiversity data: Analysis, concerns, and challenges. Biodiversity Informatics 8(2): 59-93. https://doi.org/10.17161/bi.v8i2.4094
 - [[balldamerow]] Ball-Damerow JE, Brenskelle L, Barve N et al. (2019) Research applications of primary biodiversity databases in the digital age. PLoS ONE 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
-- [[gbifbid]] Biodiversity Information for Development (BID) Programme. Global Biodiversity Information Facility. Available at:https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development
-- [[gbifbifa]] Biodiversity Information Fund for Asia (BIFA) Programme. Global Biodiversity Information Facility. Available at:https://www.gbif.org/programme/82629/bifa-biodiversity-information-fund-for-asia
+- [[gbifbid]] Biodiversity Information for Development (BID) Programme. Global Biodiversity Information Facility. Available at:https://www.gbif.org/programme/82243/
+- [[gbifbifa]] Biodiversity Information Fund for Asia (BIFA) Programme. Global Biodiversity Information Facility. Available at:https://www.gbif.org/programme/82629/
 - [[bip2011]] Biodiversity Indicators Partnership (2011) Guidance for national biodiversity indicator development and use. Cambridge, United Kingdom: UNEP World Conservation Monitoring Centre. Available at: https://www.cbd.int/doc/meetings/ind/ahteg-sp-ind-01/other/ahteg-sp-ind-01-bipnational-en.pdf
 - [[bip2021]] Biodiversity Indicators Partnership - UNEP-WCMC (2021) Growth in Species Occurrence Records Accessible Through GBIF. Available at: https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif 
 - [[bmch]] Biodiversity Monitoring Switzerland. (2021). Available at: https://www.biodiversitymonitoring.ch
@@ -22,7 +22,7 @@
 - [[essl]] Essl F, Latombe G, Lenzner B, et al. (2020) The Convention on Biological Diversity (CBD)’s post-2020 target on invasive alien species – what should it include and how should it be monitored? in: Wilson JR, Bacher S, Daehler CC et al. NeoBiota 62: 99-121. https://doi.org/10.3897/neobiota.62.53972
 - [[feeley]] Feeley K (2015) Are We Filling the Data Void? An Assessment of the Amount and Extent of Plant Collection Records and Census Data Available for Tropical South America. PLoS ONE 10: 1-17. https://doi.org/10.1371/journal.pone.0125629
 - [[figueira]] Figueira R, Beja P, Villaverde C et al. (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03
-- [[gbifsr20]] GBIF Secretariat (2021) GBIF Science Review 2020. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/bezp-jj23 
+- [[gbifsr20]] GBIF Secretariat (2021) GBIF Science Review 2020. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/bezp-jj23
 - [[geldmann]] Geldmann J, Deguignet M, Balmford A et al. (2021) Essential indicators for measuring site‐based conservation effectiveness in the post‐2020 global biodiversity framework. Conservation Letters e12792. https://doi.org/10.1111/conl.12792
 - [[graham]] Graham CH, Ferrier S, Huettman F et al. (2004) New developments in museum-based informatics and applications in biodiversity analysis. Trends in Ecology & Evolution 19: 497-503. https://doi.org/10.1016/j.tree.2004.07.006
 - [[geobon]] Group on Earth Observations Biodiversity Observation Network (GEO BON) (2021). https://geobon.org/
@@ -47,7 +47,7 @@
 - [[moussy]] Moussy C, Burfield I, Stephenson PJ et al. (2021) A quantitative review of species population monitoring. Conservation Biology. Accepted Author Manuscript. https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13721
 - [[navarro]] Navarro LM, Fernández N, Guerra C et al. (2017) Monitoring biodiversity change through effective global coordination. Current Opinion in Environmental Sustainability 29:158–169. https://doi.org/10.1016/j.cosust.2018.02.005
 - [[nicholson]] Nicholson E, Collen B, Barausse A et al. (2012) Making Robust Policy Decisions Using Global Biodiversity Indicators. PLoS ONE 7(7): e41128. https://doi.org/10.1371/journal.pone.0041128
-- [[pereira06]] Pereira HM & Cooper HD (2006) Towards the global monitoring of biodiversity change. Trends in Ecology and Evolution 21(3): 123-129.https://doi.org/10.1016/j.tree.2005.10.015
+- [[pereira06]] Pereira HM & Cooper HD (2006) Towards the global monitoring of biodiversity change. Trends in Ecology and Evolution 21(3): 123-129. https://doi.org/10.1016/j.tree.2005.10.015
 - [[pereira10]] Pereira HM, Belnap J, Brummitt N et al. (2010) Global biodiversity monitoring. Frontiers in Ecology and the Environment 8: 459-460. https://doi.org/10.1890/10.WB.23
 - [[peterson]] Peterson AT, Asase A, Canhos D et al. (2018) Data Leakage and Loss in BiodiversityInformatics. Biodiversity Data Journal 6: e26826. https://doi.org/10.3897/BDJ.6.e26826
 - [[pocock]] Pocock MJ, Chandler M, Bonney R et al. (2018) A vision for global biodiversity monitoring with citizen science. Advances in Ecological Research 59: 169-223. https://doi.org/10.1016/bs.aecr.2018.06.003
@@ -63,7 +63,7 @@
 - [[cbd20e]] Secretariat of the Convention on Biological Diversity (2020e) Review of Progress in the Implementation of the Convention and the Strategic Plan for Biodiversity 2011-2020, document CBD/SBI/3/2 prepared by SCBD for the 3rd meeting of the Subsidiary Body on Implementation (SBI3). Available at: https://www.cbd.int/doc/c/73bc/335c/480a6a50d95d04478f4b3041/sbi-03-02-en.pdf
 - [[cbd10]] Secretariat of the Convention on Biological Diversity (2010) Strategic Plan for Biodiversity 2011-2020, including Aichi Biodiversity Targets. https://www.cbd.int/sp/
 - [[cbd06]] Secretariat of the Convention on Biological Diversity (2006) Global Biodiversity Outlook 2. Montreal. https://www.cbd.int/gbo2/
-- [[sousabaena]] Sousa-Baena MS, Garcia LC & Peterson AT (2014) Knowledge behind conservation status decisions: data basis for “Data Deficient” Brazilian plant species. Biological Conservation 173: 80-89. http://dx.doi.org/10.1016/j.biocon.2013.06.034
+- [[sousabaena]] Sousa-Baena MS, Garcia LC & Peterson AT (2014) Knowledge behind conservation status decisions: data basis for “Data Deficient” Brazilian plant species. Biological Conservation 173: 80-89. https://doi.org/10.1016/j.biocon.2013.06.034
 - [[stevenson]] Stevenson SL, Watermeyer K, Caggiano G et al. (2021) Matching biodiversity indicators to policy needs. Conservation Biology 35(2): 522-532. https://doi.org/10.1111/cobi.13575
 - [[tengo]] Tengö M, Hill R, Malmer P et al. (2017) Weaving knowledge systems in IPBES, CBD and beyond—lessons learned for sustainability. Current Opinion in Environmental Sustainability 26-27: 17-25. https://doi.org/10.1016/j.cosust.2016.12.005
 - [[epa]] The Equator Principles Association (2020) The Equator Principles. July 2020. Available at: https://equator-principles.com/wp-content/uploads/2021/02/The-Equator-Principles-July-2020.pdf
@@ -71,7 +71,7 @@
 - [[unepwcmc]] UNEP-WCMC & BIP (2020) Indicators for the post-2020 global biodiversity framework. https://www.cbd.int/sbstta/sbstta-24/post2020-indicators-en.pdf
 - [[unesco]] UNESCO (2021) Draft text of the UNESCO Recommendation on Open Science. Available at: https://en.unesco.org/science-sustainable-future/open-science
 - [[vannan]] Vannan S, Downs RR, Meier W et al. (2020) Data sets are foundational to research. Why don’t we cite them? Eos 101. https://doi.org/10.1029/2020EO151665 
-- [[williams]] Williams BA, Watson JE, Butchart SH et al. (2020) A robust goal is needed for species in the Post‐2020 Global Biodiversity framework. Conservation Letters. 2020;e12778. https://doi.org/10.1111/conl.12778 
+- [[williams]] Williams BA, Watson JE, Butchart SH et al. (2020) A robust goal is needed for species in the Post‐2020 Global Biodiversity framework. Conservation Letters. 2020;e12778. https://doi.org/10.1111/conl.12778
 - [[wilkinson]] Wilkinson MD, Dumontier M, Aalbersberg IJ et al. (2016) The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data 3: 160018. https://doi.org/10.1038/sdata.2016.18
 
 <<<
