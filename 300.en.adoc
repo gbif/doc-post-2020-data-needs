@@ -114,7 +114,7 @@ NGS
 
 |abiotic datasets	
 |EarthEnv	
-|biotic info
+|abiotic info
 
 |biotic datasets
 |WorldGrids	
@@ -155,6 +155,22 @@ NGS
 |abiotic datasets
 |WorldGrids
 |abiotic info
+
+.3+|Crop Wild Relative Index
+.3+a|Alliance Bioversity +
+CIAT & IUCN/CW RSG
+.3+|http://www.cropwildrelatives.org/
+|occurrence datasets
+|GBIF**
+|occurrences
+
+|landscape datasets
+|**
+|species info, abiotic info
+
+|genetic datasets	
+|**
+|genetic data
 
 |===
 
