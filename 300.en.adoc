@@ -180,7 +180,7 @@ Table 2. Summary of the characteristics of the data sources organizations. For m
 |active
 
 |World Economic Plants database
-|Global
+|global
 |plant taxa
 |n/a
 |government
