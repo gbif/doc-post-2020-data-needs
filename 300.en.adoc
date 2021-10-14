@@ -58,10 +58,10 @@ Map of Life
 |GBIF
 |occurrence
 
-.4+|Species Habitat Index (SHIs)
-.4+a|Map of Life, Yale University +
+.3+|Species Habitat Index (SHIs)
+.3+a|Map of Life, Yale University +
 NGS
-.4+|https://www.bipindicators.net/indicators/species-habitat-index
+.3+|https://www.bipindicators.net/indicators/species-habitat-index
 |landscape datasets
 |Landsat/MODIS
 |landscape
@@ -74,8 +74,51 @@ NGS
 |GBIF
 |occurrence
 
+.3+|Biodiversity Habitat Index
+.3+a|CSIRO
+.3+|https://www.bipindicators.net/indicators/biodiversity-habitat-index
+|peer-reviewed publications	
+|n/a
+|species information
 
+|peer-reviewed publications, landscape datasets		
+|n/a
+|species information, abiotic info
 
+|occurrence datasets
+|GBIF
+|occurrences
+
+.6+|Bioclimatic Ecosystem Resilience Index (BERI)
+.6+a|CSIRO
+.6+|https://www.bipindicators.net/indicators/bioclimatic-ecosystem-resilience-index-beri, https://www.biorxiv.org/content/10.1101/795377v1
+|occurrence datasets
+|GBIF
+|occurrence
+
+|peer-reviewed publications, landscape datasets		
+|n/a
+|species information, abiotic info
+
+|peer-reviewed publications + research outputs
+|Map of Life*	
+|occurrence
+
+|abiotic datasets
+|WorldClim
+|abiotic info
+
+|abiotic datasets	
+|Soil Grids
+|abiotic info
+
+|abiotic datasets	
+|EarthEnv	
+|biotic info
+
+|biotic datasets
+|WorldGrids	
+|abiotic info
 
 |===
 
