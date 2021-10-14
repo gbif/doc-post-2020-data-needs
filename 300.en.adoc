@@ -100,7 +100,7 @@ NGS
 |n/a
 |species information, abiotic info
 
-|peer-reviewed publications + research outputs
+|peer-reviewed publications, research outputs
 |Map of Life*	
 |occurrence
 
@@ -118,6 +118,42 @@ NGS
 
 |biotic datasets
 |WorldGrids	
+|abiotic info
+
+.8+|Protected Area Representativeness Index
+.8+a|CSIRO
++(GEOBON, GBIF, Map of Life)
+.8+|https://www.bipindicators.net/indicators/protected-area-representativeness-index-parc-representativeness
+|landscape datasets
+|Landsat/MODIS
+|species info, abiotic info
+
+|research outputs, occurrence datasets
+|GBIF
+|occurrences
+
+|landscape datasets	
+|Protected Planet
+|other
+
+|peer-reviewed publications, landscape datasets
+|n/a	
+|species info, abiotic info
+
+|abiotic datasets	
+|WorldClim
+|abiotic info
+
+|abiotic datasets
+|Soil Grids	
+|abiotic info
+
+|abiotic datasets	
+|EarthEnv
+|abiotic info
+
+|abiotic datasets
+|WorldGrids
 |abiotic info
 
 |===
