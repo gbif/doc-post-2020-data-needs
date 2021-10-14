@@ -30,6 +30,21 @@ Table 1. Summary of data sources types, organizations and data types feeding int
 |GBIF
 |occurrence
 
+|Species Status Information Index (SSII)
+|GEO-BON, Map of Life
+|https://www.bipindicators.net/indicators/species-status-information-index
+| occurrence datasets research outputs
+| GBIF Map of Life*
+| occurrence occurrence species information
+
+|Species Protection Index
+|GEO-BON, Map of Life
+|https://www.bipindicators.net/indicators/species-protection-index
+|landscape datasets peer-reviewed publications research outputs research outputs, occurrence datasets
+|Landsat/MODIS Map of Life* GBIF
+|Landscape occurrence occurrence
+
+
 
 |===
 
