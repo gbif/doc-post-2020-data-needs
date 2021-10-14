@@ -13,6 +13,26 @@ As we started to assess the 11 biodiversity indicators, several patterns emerged
 [[table-01]]
 Table 1. Summary of data sources types, organizations and data types feeding into indicators. For more details, see https://docs.google.com/spreadsheets/d/1nAcCY5QO9P5yoTooaHZ0Zia717Mvy-cABOFKuuTBOGk/edit#gid=0[Supplemental Materials^].
 
+[cols=6*,options="header"]
+|===
+
+|Indicator
+|Organization responsible for indicator
+|Indicator link
+|Identified data sources type
+|Data source organization
+|dataType
+
+|Growth of Species Occurrence Records Accessible Through GBIF
+|GBIF
+|https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif
+|occurrence datasets
+|GBIF
+|occurrence
+
+
+|===
+
 [[table-02]]
 Table 2. Summary of the characteristics of the data sources organizations. For more details, see Supp. Material.
 
@@ -218,9 +238,6 @@ Table 2. Summary of the characteristics of the data sources organizations. For m
 |some publishers and projects declared
 |open
 |active
-
-
-
 
 |===
 
