@@ -17,32 +17,212 @@ Table 1. Summary of data sources types, organizations and data types feeding int
 Table 2. Summary of the characteristics of the data sources organizations. For more details, see Supp. Material.
 
 
-+------------------------------------------------------+------------------------+-------------------+---------------------+-----------------+----------------------------------+---------------------------------------+----------------------------------+-----------------+---------------------------+--------------+------+--------+
-|               Data source organization               |       Geographic       |      spread       |  Taxonomic spread   | Temporal spread |          Funding origin          |                 Data                  |                                  |                 |                           |              |      |        |
-+------------------------------------------------------+------------------------+-------------------+---------------------+-----------------+----------------------------------+---------------------------------------+----------------------------------+-----------------+---------------------------+--------------+------+--------+
-| origin                                               | Data provenance        | Access            | Activity            | CGIAR-CSI SRTM  | global                           | n/a                                   | n/a                              | government, NGO | government, NGO, research | not declared | open | active |
-| CIAT                                                 | global                 | agricultural taxa | 1967-2020           | government, NGO | government, research, other      | not declared                          | open                             | active          |                           |              |      |        |
-| Crop Wild Relatives database of Global (CWR) Project | global                 | plant taxa        | n/a                 | government, NGO | government, NGO, research        | not declared                          | open, licensed                   | active          |                           |              |      |        |
-| EarthEnv                                             | global                 | n/a               | n/a                 | government, NGO | government, NGO, research        | not declared                          | not specified                    | active          |                           |              |      |        |
-| ESA                                                  | global                 | n/a               | 1992-2015           | government      | government, research             | not declared                          | open                             | active          |                           |              |      |        |
-| ESDAC                                                | global                 | n/a               | n/a                 | government      | government, research             | not declared                          | open                             | active          |                           |              |      |        |
-| FAO                                                  | global                 | agricultural taxa | 1961-2020           | government      | government, other                | not declared                          | open                             | active          |                           |              |      |        |
-| GBIF                                                 | global                 | all taxa          | n/a                 | government, NGO | government, NGO, research        | publishers declared                   | open, licensed                   | active          |                           |              |      |        |
-| GENESYS                                              | global                 | plant taxa        | n/a                 | government, NGO | government, NGO, research        | publishers declared                   | open, licensed                   | active          |                           |              |      |        |
-| ISO                                                  | global                 | n/a               | n/a                 | government, NGO | government, NGO                  | not declared                          | open                             | active          |                           |              |      |        |
-| Landsat/MODIS                                        | global                 | n/a               | 1999-2020 (2014-15) | government      | government, research             | projects declared                     | open, with registration          | active          |                           |              |      |        |
-| Map of Life                                          | global                 | plant/animal taxa | 2011-2020           | own, research   | government, NGO, research        | not declared                          | open, licensed                   | active          |                           |              |      |        |
-| OECD                                                 | developed nations (37) | n/a               | 1961-2020           | government      | government, other                | not declared                          | open                             | active          |                           |              |      |        |
-| Protected Planet                                     | global                 | n/a               | 1981-2020           | government, NGO | government, other                | not declared                          | open                             | active          |                           |              |      |        |
-| Soil Grids                                           | global                 | n/a               | n/a                 | government, NGO | government, NGO, research        | not declared                          | not specified                    | active          |                           |              |      |        |
-| World Economic Plants database                       | global                 | plant taxa        | n/a                 | government      | government, NGO, research        | publishers declared                   | mostly open, custom terms of use | active          |                           |              |      |        |
-| WorldClim                                            | global                 | n/a               | n/a                 | government, NGO | government, NGO, research        | not declared                          | open, licensed                   | active          |                           |              |      |        |
-| WorldGrids                                           | global                 | n/a               | n/a                 | government, NGO | government, NGO, research        | not declared                          | not specified                    | inactive        |                           |              |      |        |
-| Yale University                                      | global                 | n/a               | 1970-2020           | government, NGO | government, NGO, research, other | some publishers and projects declared | open                             | active          |                           |              |      |        |
-+------------------------------------------------------+------------------------+-------------------+---------------------+-----------------+----------------------------------+---------------------------------------+----------------------------------+-----------------+---------------------------+--------------+------+--------+
+[cols=9*,options="header"]
+|===
+|Data source organization
+|Geographic spread
+|Taxonomic spread
+|Temporal spread
+|Funding origin
+|Data origin
+|Data provenance
+|Access
+|Activity
+
+|CGIAR-CSI SRTM
+|global
+|n/a
+|n/a
+|government, NGO
+|government, NGO, research
+|not declared
+|open
+|active
+
+|CIAT
+|global
+|agricultural taxa
+|1967-2020
+|government, NGO
+|government, research, other
+|not declared
+|open
+|active
+
+|Crop Wild Relatives database of Global (CWR) Project
+|global
+|plant taxa
+|n/a
+|government, NGO
+|government, NGO, research
+|not declared
+|open, licensed
+|active
+
+|EarthEnv
+|global
+|n/a
+|n/a
+|government, NGO
+|government, NGO, research
+|not declared
+|not specified
+|active
+
+|ESA
+|global
+|n/a
+|1992-2015
+|government
+|government, research
+|not declared
+|open
+|active
+
+|ESDAC
+|global
+|n/a
+|n/a
+|government
+|government, research
+|not declared
+|open
+|active
+
+|FAO
+|global
+|agricultural taxa
+|1961-2020
+|government
+|government, other
+|not declared
+|open
+|active
+
+|GBIF
+|global
+|all taxa
+|n/a
+|government, NGO
+|government, NGO, research
+|publishers declared
+|open, licensed
+|active
+
+|GENESYS
+|global
+|plant taxa
+|n/a
+|government, NGO
+|government, NGO, research
+|publishers declared
+|open, licensed
+|active
+
+|ISO
+|global
+|n/a
+|n/a
+|government, NGO
+|government, NGO
+|not declared
+|open
+|active
+
+|Landsat/MODIS
+|global
+|n/a
+|1999-2020 (2014-15)
+|government
+|government, research
+|projects declared
+|open, with registration
+|active
+
+|Map of Life
+|global
+|plant/animal taxa
+|2011-2020
+|own, research
+|government, NGO, research
+|not declared
+|open, licensed
+|active
+
+|OECD
+|developed nations (37)
+|n/a
+|1961-2020
+|government
+|government, other
+|not declared
+|open
+|active
+
+|Protected Planet
+|global
+|n/a
+|1981-2020
+|government, NGO
+|government, other
+|not declared
+|open
+|active
+
+|Soil Grids
+|global
+|n/a
+|n/a
+|government, NGO
+|government, NGO, research
+|not declared
+|not specified
+|active
+
+|World Economic Plants database
+|Global
+|plant taxa
+|n/a
+|government
+|government, NGO, research	
+|publishers declared
+|mostly open, custom terms of use
+|active
+
+|WorldClim
+|global
+|n/a
+|n/a
+|government, NGO
+|government, NGO, research	
+|not declared
+|open, licensed
+|active
+
+|WorldGrids
+|global
+|n/a
+|n/a
+|government, NGO
+|government, NGO, research	
+|not declared
+|not specified
+|inactive
+
+|Yale University
+|global
+|n/a
+|1970-2020
+|government, NGO
+|government, NGO, research, other
+|some publishers and projects declared
+|open
+|active
 
 
 
+
+|===
 
 3. The pathway for data moving from biodiversity data platforms into the analysis pipeline during the creation of a biodiversity indicator is not always linear. The use or sharing of datasets and data products between indicators magnifies issues of transparency, especially when primary biodiversity data is processed for the benefit of Indicator A and then Indicator A’s data products are used as the inputs for analysis for Indicator B. These relationships between indicators are not uncommon. For example, the relationship between the Species Habitat Index (SHI; produced by https://mol.org/[Map of Life^]) and the Bioclimatic Ecosystem Resilience Index (BERI; produced by https://www.csiro.au/[CSIRO^]) demonstrate how data and data product use can become intertwined (<<fig-01,Figure 1A>>).
 + 
