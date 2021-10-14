@@ -58,6 +58,25 @@ Map of Life
 |GBIF
 |occurrence
 
+.4+|Species Habitat Index (SHIs)
+.4+a|Map of Life, Yale University +
+NGS
+.4+|https://www.bipindicators.net/indicators/species-habitat-index
+|landscape datasets
+|Landsat/MODIS
+|landscape
+
+|peer-reviewed publications, research outputs
+|Map of Life*
+|occurrence
+
+|research outputs, occurrence datasets
+|GBIF
+|occurrence
+
+
+
+
 |===
 
 [[table-02]]
