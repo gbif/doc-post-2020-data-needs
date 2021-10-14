@@ -13,7 +13,7 @@ As we started to assess the 11 biodiversity indicators, several patterns emerged
 [[table-01]]
 Table 1. Summary of data sources types, organizations and data types feeding into indicators. For more details, see https://docs.google.com/spreadsheets/d/1nAcCY5QO9P5yoTooaHZ0Zia717Mvy-cABOFKuuTBOGk/edit#gid=0[Supplemental Materials^].
 
-[cols=6*,options="header"]
+[cols=6*.^,options="header",stripes="none"]
 |===
 
 |Indicator
@@ -21,7 +21,7 @@ Table 1. Summary of data sources types, organizations and data types feeding int
 |Indicator link
 |Identified data sources type
 |Data source organization
-|dataType
+|Data type
 
 |Growth of Species Occurrence Records Accessible Through GBIF
 |GBIF
@@ -30,21 +30,33 @@ Table 1. Summary of data sources types, organizations and data types feeding int
 |GBIF
 |occurrence
 
-|Species Status Information Index (SSII)
-|GEO-BON, Map of Life
-|https://www.bipindicators.net/indicators/species-status-information-index
-| occurrence datasets research outputs
-| GBIF Map of Life*
-| occurrence occurrence species information
+.2+|Species Status Information Index (SSII)
+|GEO-BON
+.2+|https://www.bipindicators.net/indicators/species-status-information-index
+|occurrence datasets
+|GBIF
+|occurrence
 
-|Species Protection Index
-|GEO-BON, Map of Life
-|https://www.bipindicators.net/indicators/species-protection-index
-|landscape datasets peer-reviewed publications research outputs research outputs, occurrence datasets
-|Landsat/MODIS Map of Life* GBIF
-|Landscape occurrence occurrence
+|Map of Life
+|research outputs
+|Map of Life*
+|occurrence, species information
 
+.3+|Species Protection Index
+.3+a|GEO-BON +
+Map of Life
+.3+|https://www.bipindicators.net/indicators/species-protection-index
+|landscape datasets
+|Landsat/MODIS
+|landscape
 
+|peer-reviewed publications, research outputs
+|Map of Life*
+|occurrence
+
+|research outputs, occurrence datasets
+|GBIF
+|occurrence
 
 |===
 
