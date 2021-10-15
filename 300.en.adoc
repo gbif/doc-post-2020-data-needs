@@ -112,7 +112,7 @@ NGS
 |EarthEnv	
 |abiotic info
 
-|biotic datasets
+|abiotic datasets
 |WorldGrids	
 |abiotic info
 
@@ -473,3 +473,16 @@ Figure 1. Data workflow / life cycle from data generation, through aggregation o
 
 [[fig-02]]
 Figure 2. Types of data used for building the biodiversity-related indicators assessed in this study.
+
+Data type
+Indicator
+
+[cols=5*,options="header"]
+|===
+|occurence
+|species info
+|abiotic info
+|genetics
+|other
+
+|===
