@@ -485,44 +485,44 @@ Figure 2. Types of data used for building the biodiversity-related indicators as
 |other
 
 |Growth of Species Occurence Records Accessible through GBIF
-|x
-|x 
-|x
-|x
+|✔
+|✔ 
+|✔
+|✔
 |
 
 |Species Status Information Index
-|x
-|x
-|x
-|x
-|x
+|✔
+|✔
+|✔
+|✔
+|✔
 
 |Species Protection Index
-|x
-|x
+|✔
+|✔
 |
-|x
+|✔
 |
 
 |Species Habitat Index
-|x
-|x
-|x
+|✔
+|✔
+|✔
 |
-|x
+|✔
 
 |Biodiversity Habitat Index
-|x
+|✔
 |
-|x
+|✔
 |
 |
 
 |Bioclimatic Ecosystem Resilince Index
-|x
-|x
-|x
+|✔
+|✔
+|✔
 |
 |
 
@@ -534,21 +534,21 @@ Figure 2. Types of data used for building the biodiversity-related indicators as
 |
 
 |Crop Wild Relative Index
-|x
-|x
+|✔
+|✔
 |
 |
 |
 
 |Agrobiodiversity Index
-|x
-|x
+|✔
+|✔
 |
 |
 |
 
 |Comprehensiveness of conversation of socioeconomically as well as culturally valuable species
-|x
+|✔
 |
 |
 |
