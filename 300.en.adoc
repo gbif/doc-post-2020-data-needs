@@ -475,21 +475,28 @@ Figure 1. Data workflow / life cycle from data generation, through aggregation o
 Figure 2. Types of data used for building the biodiversity-related indicators assessed in this study.
 
 Data type
-Indicator
 
-[cols=5*,options="header"]
+[cols=6*,options="header"]
 |===
+|INDICATOR
 |occurence
 |species info
 |abiotic info
 |genetics
 |other
 
+|Growth of Species Occurence Records Accessible through GBIF
 |x
 |x 
 |x
 |x
 |
 
+|Species Status Information index
+|x
+|x
+|x
+|x
+|x
 
 |===
