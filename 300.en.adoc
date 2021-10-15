@@ -96,12 +96,8 @@ NGS
 |GBIF
 |occurrence
 
-|peer-reviewed publications, landscape datasets		
-|n/a
-|species information, abiotic info
-
-|peer-reviewed publications, research outputs
-|Map of Life*	
+|peer-reviewed publications, landscape datasets, outputs		
+|Map of Life*
 |occurrence
 
 |abiotic datasets
