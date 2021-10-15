@@ -203,27 +203,56 @@ CIAT & IUCN/CW RSG
 |GBIF
 |occurrence
 
-|
-|
-|
+|genetic datasets
+|Genesys
+|genetic data
 
-|
-|
-|
+|other
+|Alliance Biodiversity & CIAT
+|other
 
-|
-|
-|
+|other
+|OECD
+|other
 
-|
-|
-|
+|occurrence datasets, genetic datasets, landscape datasets, abiotic datasets, peer-reviewed publications, research outputs, other 
+|Yale University
+|occurrences, species information, abiotic information, genetic data, landscape, other
 
-|
-|
-|
+|genetic datasets, other
+|FAO
+|genetic data, abiotic information, other
 
+.7+|Comprehensiveness of conservation of socioeconomically as well as culturally valuable species	
+.7+a|CIAT, Crop Trust
+.7+|https://www.bipindicators.net/indicators/comprehensiveness-of-conservation-of-socioeconomically-as-well-as-culturally-valuable-species
+|occurrence datasets
+|GBIF**
+|occurrence
 
+|peer-reviewed publications, other biological datasets
+|World Economic Plants database
+|species information
+
+|genetic datasets
+|GENESYS
+|genetic data
+
+|occurrence datasets
+|Crop Wild Relatives database of Global (CWR) Project
+|occurrence
+
+|abiotic datasets
+|WorldClim
+|abiotic info
+
+|abiotic datasets	
+|CGIAR-CSI SRTM	
+|abiotic info
+
+|abiotic datasets	
+|ISO	
+|abiotic info
 
 |===
 
