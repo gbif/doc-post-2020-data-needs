@@ -492,11 +492,67 @@ Data type
 |x
 |
 
-|Species Status Information index
+|Species Status Information Index
 |x
 |x
 |x
 |x
 |x
+
+|Species Protection Index
+|x
+|x
+|
+|x
+|
+
+|Species Habitat Index
+|x
+|x
+|x
+|
+|x
+
+|Biodiversity Habitat Index
+|x
+|
+|x
+|
+|
+
+|Bioclimatic Ecosystem Resilince Index
+|x
+|x
+|x
+|
+|
+
+|Protected Area Representativeness Index
+|x
+|x
+|
+|
+|
+
+|Crop Wild Relative Index
+|x
+|x
+|
+|
+|
+
+|Agrobiodiversity Index
+|x
+|x
+|
+|
+|
+
+|Comprehensiveness of conversation of socioeconomically as well as culturally valuable species
+|x
+|
+|
+|
+|
 
 |===
