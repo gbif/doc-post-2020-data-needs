@@ -172,6 +172,59 @@ CIAT & IUCN/CW RSG
 |**
 |genetic data
 
+.12+|Agrobiodiversity Index
+.12+a|Alliance Biodiversity & CIAT
+.12+|https://www.agrobiodiversityindex.org/
+|other
+|Alliance Biodiversity & CIAT
+|other
+
+|other publications
+|ESDAC
+|species information
+
+|landscape datasets
+|ESA
+|Landscape
+
+|research outputs
+|n/a
+|species information
+
+|peer-reviewed publications
+|n/a
+|occurrence, species information, abiotic information, landscape, other
+
+|occurrence datasets
+|CIAT
+|species information
+
+|occurrence datasets
+|GBIF
+|occurrence
+
+|
+|
+|
+
+|
+|
+|
+
+|
+|
+|
+
+|
+|
+|
+
+|
+|
+|
+
+
+
 |===
 
 [[table-02]]
