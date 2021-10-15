@@ -474,6 +474,7 @@ Figure 1. Data workflow / life cycle from data generation, through aggregation o
 [[fig-02]]
 Figure 2. Types of data used for building the biodiversity-related indicators assessed in this study.
 
+Data type
 
 [cols=6*,options="header"]
 |===
@@ -527,8 +528,8 @@ Figure 2. Types of data used for building the biodiversity-related indicators as
 |
 
 |Protected Area Representativeness Index
-|x
-|x
+|✔
+|✔
 |
 |
 |
