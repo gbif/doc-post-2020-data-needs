@@ -476,7 +476,7 @@ Figure 2. Types of data used for building the biodiversity-related indicators as
 
 Data type
 
-[cols=4,^1,^1,^1,^1,^1,options="header"]
+[cols="4,^1,^1,^1,^1,^1,^1",options="header"]
 |===
 
 |Indicator
