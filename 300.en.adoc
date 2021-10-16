@@ -478,6 +478,7 @@ Data type
 
 [cols=4,^1,^1,^1,^1,^1,options="header"]
 |===
+
 |Indicator
 |occurence
 |species info
