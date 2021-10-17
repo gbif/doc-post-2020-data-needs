@@ -13,26 +13,23 @@ As we started to assess the 11 biodiversity indicators, several patterns emerged
 [[table-01]]
 Table 1. Summary of data sources types, organizations and data types feeding into indicators. For more details, see https://docs.google.com/spreadsheets/d/1nAcCY5QO9P5yoTooaHZ0Zia717Mvy-cABOFKuuTBOGk/edit#gid=0[Supplemental Materials^].
 
-[cols=6*.^,options="header",stripes="none"]
+[cols=5*.^,options="header",stripes="none"]
 |===
 
 |Indicator
 |Organization responsible for indicator
-|Indicator link
 |Identified data sources type
 |Data source organization
 |Data type
 
-|Growth of Species Occurrence Records Accessible Through GBIF
+|https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif[Growth of Species Occurrence Records Accessible Through GBIF^]
 |GBIF
-|https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif
 |occurrence datasets
 |GBIF
 |occurrence
 
-.2+|Species Status Information Index (SSII)
+.2+|https://www.bipindicators.net/indicators/species-status-information-index[Species Status Information Index^] (SSII)
 |GEO-BON
-.2+|https://www.bipindicators.net/indicators/species-status-information-index
 |occurrence datasets
 |GBIF
 |occurrence
@@ -58,10 +55,9 @@ Map of Life
 |GBIF
 |occurrence
 
-.3+|Species Habitat Index (SHIs)
+.3+|https://www.bipindicators.net/indicators/species-habitat-index[Species Habitat Index^] (SHIs)
 .3+a|Map of Life, Yale University +
 NGS
-.3+|https://www.bipindicators.net/indicators/species-habitat-index
 |landscape datasets
 |Landsat/MODIS
 |landscape
@@ -74,9 +70,8 @@ NGS
 |GBIF
 |occurrence
 
-.3+|Biodiversity Habitat Index
+.3+|https://www.bipindicators.net/indicators/biodiversity-habitat-index[Biodiversity Habitat Index^]
 .3+a|CSIRO
-.3+|https://www.bipindicators.net/indicators/biodiversity-habitat-index
 |peer-reviewed publications	
 |n/a
 |species information
@@ -89,9 +84,8 @@ NGS
 |GBIF
 |occurrences
 
-.6+|Bioclimatic Ecosystem Resilience Index (BERI)
+.6+|https://www.bipindicators.net/indicators/bioclimatic-ecosystem-resilience-index-beri[Bioclimatic Ecosystem Resilience Index^] (BERI)
 .6+a|CSIRO
-.6+|https://www.bipindicators.net/indicators/bioclimatic-ecosystem-resilience-index-beri, https://www.biorxiv.org/content/10.1101/795377v1
 |occurrence datasets
 |GBIF
 |occurrence
@@ -116,10 +110,9 @@ NGS
 |WorldGrids	
 |abiotic info
 
-.8+|Protected Area Representativeness Index
+.8+|https://www.bipindicators.net/indicators/protected-area-representativeness-index-parc-representativeness[Protected Area Representativeness Index^]
 .8+a|CSIRO
 +(GEOBON, GBIF, Map of Life)
-.8+|https://www.bipindicators.net/indicators/protected-area-representativeness-index-parc-representativeness
 |landscape datasets
 |Landsat/MODIS
 |species info, abiotic info
@@ -152,10 +145,9 @@ NGS
 |WorldGrids
 |abiotic info
 
-.3+|Crop Wild Relative Index
+.3+|http://www.cropwildrelatives.org/[Crop Wild Relative Index^]
 .3+a|Alliance Bioversity +
 CIAT & IUCN/CW RSG
-.3+|http://www.cropwildrelatives.org/
 |occurrence datasets
 |GBIF**
 |occurrences
@@ -168,9 +160,8 @@ CIAT & IUCN/CW RSG
 |**
 |genetic data
 
-.12+|Agrobiodiversity Index
+.12+|https://www.agrobiodiversityindex.org/[Agrobiodiversity Index^]
 .12+a|Alliance Biodiversity & CIAT
-.12+|https://www.agrobiodiversityindex.org/
 |other
 |Alliance Biodiversity & CIAT
 |other
@@ -219,9 +210,8 @@ CIAT & IUCN/CW RSG
 |FAO
 |genetic data, abiotic information, other
 
-.7+|Comprehensiveness of conservation of socioeconomically as well as culturally valuable species	
+.7+|https://www.bipindicators.net/indicators/comprehensiveness-of-conservation-of-socioeconomically-as-well-as-culturally-valuable-species[Comprehensiveness of conservation of socioeconomically as well as culturally valuable species^]	
 .7+a|CIAT, Crop Trust
-.7+|https://www.bipindicators.net/indicators/comprehensiveness-of-conservation-of-socioeconomically-as-well-as-culturally-valuable-species
 |occurrence datasets
 |GBIF**
 |occurrence
