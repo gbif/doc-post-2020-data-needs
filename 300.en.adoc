@@ -39,10 +39,9 @@ Table 1. Summary of data sources types, organizations and data types feeding int
 |Map of Life*
 |occurrence, species information
 
-.3+|Species Protection Index
+.3+|https://www.bipindicators.net/indicators/species-protection-index[Species Protection Index^]
 .3+a|GEO-BON +
 Map of Life
-.3+|https://www.bipindicators.net/indicators/species-protection-index
 |landscape datasets
 |Landsat/MODIS
 |landscape
