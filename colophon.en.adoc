@@ -13,10 +13,6 @@ Bloom DA, Zermoglio P & Guralnick R (2021) Analysis of biodiversity data needs i
 
 https://orcid.org/0000-0003-1273-1807[David A Bloom^], https://orcid.org/0000-0002-6056-5084[Paula Zermoglio^] & https://orcid.org/0000-0001-6682-1504[Robert Guralnick]
 
-=== Contributors
-
-James Joyce and Samuel Beckett of University College, Dublin, contributed to this version of the document.
-
 === Licence
 
 The document _Analysis of biodiversity data needs in the post-2020 framework_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^].
