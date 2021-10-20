@@ -457,8 +457,11 @@ Table 2. Summary of the characteristics of the data sources organizations. For m
 
 [[fig-01]]
 *Figure 1A*
+
 image::img/Figure1A.svg[A]
+
 *Figure 1B*
+
 image::img/Figure1A.svg[B]
 Figure 1. Data workflow / life cycle from data generation, through aggregation or compilation by different sources, to building of biodiversity-related indicators, and dependencies across the distinct organizations involved. A. Example for two of the indicators assessed: Species Habitat Indexa and Bioclimatic Ecosystem Resilience Index. B. Example for the Agrobiodiversity Index.
 
