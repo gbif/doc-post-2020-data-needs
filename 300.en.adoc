@@ -455,6 +455,7 @@ Table 2. Summary of the characteristics of the data sources organizations. For m
 + 
 + The Agrobiodiversity Index is unique in that it follows a more complex path than other indicators (<<fig-01,Figure 1B>>), as it builds not only on data and data products but also on other indexes (e.g. the Environmental Performance Index). Transparency becomes more important as the complexity of a given indicator, such as the Agrobiodiversity Index, is increased.
 
+[[fig-01]]
 image::img/Figure1A.svg[A]
 image::img/Figure1A.svg[B]
 Figure 1. Data workflow / life cycle from data generation, through aggregation or compilation by different sources, to building of biodiversity-related indicators, and dependencies across the distinct organizations involved. A. Example for two of the indicators assessed: Species Habitat Indexa and Bioclimatic Ecosystem Resilience Index. B. Example for the Agrobiodiversity Index.
